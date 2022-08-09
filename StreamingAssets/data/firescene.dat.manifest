@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1017396805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 871c7bcb2a2c4981dff45d5b8466fb03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e2b97f6af6ce1da708a5d0934536274
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: feaaed8a589c94ccea000c2423b07afa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/FireScene.prefab
+Dependencies: []

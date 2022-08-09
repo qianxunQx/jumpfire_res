@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 233267551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6b2aea367c381bfdde7b5b4b4848637
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17bdd3becae6d11df2cd278d9cd53fb4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 977d148bd399c46b4b753a360a531afc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Lobby/LobbyScene.prefab
+Dependencies:
+- /workspaces/ImmortalFire/Assets/StreamingAssets/data/homebg1.dat
+- /workspaces/ImmortalFire/Assets/StreamingAssets/data/homebg3.dat
+- /workspaces/ImmortalFire/Assets/StreamingAssets/data/home.dat
+- /workspaces/ImmortalFire/Assets/StreamingAssets/data/homebg4.dat
