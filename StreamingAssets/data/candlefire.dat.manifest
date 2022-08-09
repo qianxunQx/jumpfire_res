@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1485785077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ca20a9670b3617d50928f529b823228
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45b571758fa8f918708d37956ba7efc7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80002b975408d4f06ba56b3282b83a7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Prop/CandleFire.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/prop.dat

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2079617296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 696b95683eba5c0f4f70a6098c600735
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a62c26ae3f4c737b6c44044cde2e1bd2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3c9e9041b9e54b6999a0b4ee10868c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80002b975408d4f06ba56b3282b83a7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Prop/CandleStart.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/prop.dat

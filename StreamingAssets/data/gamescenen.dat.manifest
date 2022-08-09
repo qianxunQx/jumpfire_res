@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2921082833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0738efad88712bb50a55f5da91ece71c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_a_sd.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_table.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_c_sd.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_flag_c.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_flag_b.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_photo_a.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_photo_e.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_photo_b.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_b.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_c.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_a.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_photo_d.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_gift_b_sd.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_photo_c.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_flag_a.png
+- Assets/Atlas/Game/GameSceneN/fire_scene_cake.png
+Dependencies: []

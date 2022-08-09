@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 538945085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c218dccd4926ea677c2f546a447c86d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Lobby/Dress/dress_up_next_page.png
+- Assets/Atlas/Lobby/Dress/dress_up_bead_b.png
+- Assets/Atlas/Lobby/Dress/dress_up_role.png
+- Assets/Atlas/Lobby/Dress/dress_up_bead_a.png
+- Assets/Atlas/Lobby/Dress/dress_up_previous_page.png
+- Assets/Atlas/Lobby/Dress/dress_up_return.png
+Dependencies: []

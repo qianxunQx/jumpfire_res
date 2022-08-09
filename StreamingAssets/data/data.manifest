@@ -1,0 +1,149 @@
+ManifestFileVersion: 0
+CRC: 901819493
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: set.dat
+      Dependencies: {}
+    Info_1:
+      Name: homebg5.dat
+      Dependencies: {}
+    Info_2:
+      Name: home.dat
+      Dependencies: {}
+    Info_3:
+      Name: gamescenen.dat
+      Dependencies: {}
+    Info_4:
+      Name: gui.dat
+      Dependencies: {}
+    Info_5:
+      Name: prop.dat
+      Dependencies: {}
+    Info_6:
+      Name: peach.dat
+      Dependencies:
+        Dependency_0: prop.dat
+    Info_7:
+      Name: role1.dat
+      Dependencies: {}
+    Info_8:
+      Name: dress.dat
+      Dependencies: {}
+    Info_9:
+      Name: candlefire.dat
+      Dependencies:
+        Dependency_0: prop.dat
+    Info_10:
+      Name: lobbyscene.dat
+      Dependencies:
+        Dependency_0: home.dat
+        Dependency_1: homebg4.dat
+        Dependency_2: homebg3.dat
+        Dependency_3: homebg1.dat
+    Info_11:
+      Name: homebg4.dat
+      Dependencies: {}
+    Info_12:
+      Name: shop.dat
+      Dependencies: {}
+    Info_13:
+      Name: shaders.dat
+      Dependencies: {}
+    Info_14:
+      Name: gizmos.dat
+      Dependencies: {}
+    Info_15:
+      Name: basewindow.dat
+      Dependencies: {}
+    Info_16:
+      Name: candlecolour.dat
+      Dependencies:
+        Dependency_0: prop.dat
+    Info_17:
+      Name: lua.dat
+      Dependencies: {}
+    Info_18:
+      Name: homebg3.dat
+      Dependencies: {}
+    Info_19:
+      Name: firescene.dat
+      Dependencies: {}
+    Info_20:
+      Name: settlement.dat
+      Dependencies: {}
+    Info_21:
+      Name: pcurl.dat
+      Dependencies: {}
+    Info_22:
+      Name: bg0.dat
+      Dependencies:
+        Dependency_0: gamescenen.dat
+        Dependency_1: gamescene2.dat
+    Info_23:
+      Name: homebg2.dat
+      Dependencies: {}
+    Info_24:
+      Name: shopwidget.dat
+      Dependencies:
+        Dependency_0: shop.dat
+        Dependency_1: homebg2.dat
+        Dependency_2: commonatlas1.dat
+        Dependency_3: homebg1.dat
+    Info_25:
+      Name: dresswidget.dat
+      Dependencies:
+        Dependency_0: homebg5.dat
+        Dependency_1: dress.dat
+    Info_26:
+      Name: titlebar.dat
+      Dependencies:
+        Dependency_0: commonatlas1.dat
+    Info_27:
+      Name: candlestart.dat
+      Dependencies:
+        Dependency_0: prop.dat
+    Info_28:
+      Name: setwidget.dat
+      Dependencies:
+        Dependency_0: set.dat
+        Dependency_1: homebg2.dat
+        Dependency_2: homebg1.dat
+    Info_29:
+      Name: gamescene1.dat
+      Dependencies: {}
+    Info_30:
+      Name: gamescene2.dat
+      Dependencies: {}
+    Info_31:
+      Name: commonatlas1.dat
+      Dependencies: {}
+    Info_32:
+      Name: playercontrol.dat
+      Dependencies:
+        Dependency_0: commonatlas1.dat
+    Info_33:
+      Name: settlementscene.dat
+      Dependencies:
+        Dependency_0: settlement.dat
+        Dependency_1: settlementbg.dat
+        Dependency_2: homebg1.dat
+    Info_34:
+      Name: settlementbg.dat
+      Dependencies: {}
+    Info_35:
+      Name: drink.dat
+      Dependencies:
+        Dependency_0: prop.dat
+    Info_36:
+      Name: homebg1.dat
+      Dependencies: {}
+    Info_37:
+      Name: music.dat
+      Dependencies: {}
+    Info_38:
+      Name: images.dat
+      Dependencies: {}
+    Info_39:
+      Name: skin.dat
+      Dependencies: {}

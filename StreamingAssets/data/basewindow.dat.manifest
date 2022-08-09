@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 794892386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2758bd7b9c66857b653b03b7bc3e59d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d866d14bc29325410b7b9d11cbc2dc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f19a1484e8d254f07b6cb1fdaa2f2119, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/BaseWindow.prefab
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3271487662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55dd7b5f07042ef28d0c4d88d92d9d21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5330c86242aca623d2bc29e8cd58bc8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80002b975408d4f06ba56b3282b83a7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Prop/CandleColour.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/prop.dat

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3920732231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99961f26ef1a44e66639487a44d67ab6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af2dbee7e5ca40c32e29648c4420f659
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpineAnimation/Role1/player.atlas.txt
+- Assets/SpineAnimation/Role1/player_player.mat
+- Assets/SpineAnimation/Role1/player_player2.mat
+- Assets/SpineAnimation/Role1/player_Atlas.asset
+- Assets/SpineAnimation/Role1/player.png
+- Assets/SpineAnimation/Role1/player_SkeletonData.asset
+- Assets/SpineAnimation/Role1/player2.png
+- Assets/SpineAnimation/Role1/player.json
+Dependencies: []

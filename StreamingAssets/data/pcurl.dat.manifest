@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2887861637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bda523e554b7bd4f956b7f28ff4a3573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c4235952b1ad46092d079482a59ef65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fe8ba6ad94864964ab58c8720acf590, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/PCUrl.prefab
+Dependencies: []

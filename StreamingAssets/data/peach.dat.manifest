@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4198573631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be7d3032ca1ed5572df35999382d319a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25b0de44755a2b3dd1af8bc0a7e5588f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Prop/Peach.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/prop.dat

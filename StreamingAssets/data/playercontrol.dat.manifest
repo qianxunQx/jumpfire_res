@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1748428459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99bb4e7b1e17ff85068e04fe126a3118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c9a2a4a18a4d40daa8535aa98168ade
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6adee73e3f0cc4411b46c09b9e09d888, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/PlayerControl.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/commonatlas1.dat

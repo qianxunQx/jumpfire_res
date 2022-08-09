@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1313766658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36da60265f15f896f160ae105a0973b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bf35f0ee9d747c3035267d1ce7b7f72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Prop/Drink.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/prop.dat

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2301471539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc679731b8fa9f556ad4005a07c37396
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-boundingBox.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-boneNib.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-poseBones.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-mesh.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-bone.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-skin.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-skeletonUtility.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-slot.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-null.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-image.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-skinsRoot.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-path.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-skeleton.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-hingeChain.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-animation.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-weights.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-event.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-skinPlaceholder.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-constraintNib.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-animationRoot.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-warning.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-subMeshRenderer.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-spine.png
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Editor/GUI/icon-slotRoot.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3107696872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 376dacd46df4d6e086e982bdf2d154ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Lobby/Set/set_interface_language.png
+- Assets/Atlas/Lobby/Set/set_up_return.png
+- Assets/Atlas/Lobby/Set/set_interface_sound.png
+- Assets/Atlas/Lobby/Set/set_interface_ch.png
+- Assets/Atlas/Lobby/Set/set_interface_en.png
+- Assets/Atlas/Lobby/Set/set_interface_sound_on.png
+- Assets/Atlas/Lobby/Set/set_interface_music.png
+- Assets/Atlas/Lobby/Set/set_interface_music_off.png
+- Assets/Atlas/Lobby/Set/set_interface_sound_off.png
+- Assets/Atlas/Lobby/Set/set_interface_member_ch.png
+- Assets/Atlas/Lobby/Set/set_interface_member_d.png
+- Assets/Atlas/Lobby/Set/set_interface_music_on.png
+- Assets/Atlas/Lobby/Set/set_interface_member_en.png
+Dependencies: []

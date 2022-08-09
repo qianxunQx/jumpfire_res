@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 324681218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b03830d7752deb5d7f901b0386a6ab6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fd693a28c0d7f4f7a981681771fe28f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Game/Bg0.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/gamescene2.dat
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/gamescenen.dat

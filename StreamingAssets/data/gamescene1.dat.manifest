@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1734842901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 476b0f4aebb71a19c677a6aacf1cb6b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Game/GameScene1/fire_bg_a_gift_b_ssd.png
+- Assets/Atlas/Game/GameScene1/fire_bg_a_c.png
+- Assets/Atlas/Game/GameScene1/fire_bg_a_gift_a_ssd.png
+- Assets/Atlas/Game/GameScene1/fire_bg_a_gift_c_ssd.png
+- Assets/Atlas/Game/GameScene1/fire_bg_a_b.png
+- Assets/Atlas/Game/GameScene1/fire_bg_a_a.png
+Dependencies: []

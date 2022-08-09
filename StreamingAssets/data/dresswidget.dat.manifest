@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2471219278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 759b9560b31208c5656d77c201b053d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ccfb476c296368a545ef28d402782dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4cd72a8b826f4dc39fb6d3f9ec3f0b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Lobby/DressWidget.prefab
+Dependencies:
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/dress.dat
+- /Volumes/Res/Mac/WorkSpace/workspace/ImmortalFire/Assets/StreamingAssets/data/homebg5.dat

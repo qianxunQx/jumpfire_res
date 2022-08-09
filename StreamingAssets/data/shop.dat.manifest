@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3591793874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f856875de2204bdcc4f993f80b4ed3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Lobby/Shop/shop_currency_box.png
+- Assets/Atlas/Lobby/Shop/shop_cancellation.png
+- Assets/Atlas/Lobby/Shop/shop_body_b.png
+- Assets/Atlas/Lobby/Shop/shop_body_a.png
+- Assets/Atlas/Lobby/Shop/shop_return.png
+- Assets/Atlas/Lobby/Shop/shop_goods.png
+- Assets/Atlas/Lobby/Shop/shop_sale.png
+Dependencies: []

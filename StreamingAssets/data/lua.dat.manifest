@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3125053280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdfa0bf84742588aab56ec896c496ed5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/DOTween/readme.txt
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Modules/CustomMaterials/SkeletonRendererCustomMaterials.txt
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/version.txt
+- Assets/SpineRuntime/spine-unity/Assets/spine-unity/Modules/SkeletonRenderSeparator/SkeletonRenderSeparator.txt
+Dependencies: []

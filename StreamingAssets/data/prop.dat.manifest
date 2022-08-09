@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2308581886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2422a9a3115ffaed1860dd6f4d4dedf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/Game/Prop/prop_candle_colour_b.png
+- Assets/Atlas/Game/Prop/prop_candle_fire_d.png
+- Assets/Atlas/Game/Prop/prop_candle_tt.png
+- Assets/Atlas/Game/Prop/prop_candle_fire_e.png
+- Assets/Atlas/Game/Prop/prop_candle_colour_a.png
+- Assets/Atlas/Game/Prop/prop_drink_a.png
+- Assets/Atlas/Game/Prop/prop_candle_a.png
+- Assets/Atlas/Game/Prop/prop_candle_t.png
+- Assets/Atlas/Game/Prop/prop_candle_s.png
+- Assets/Atlas/Game/Prop/prop_candle_rope.png
+- Assets/Atlas/Game/Prop/prop_candle_r.png
+- Assets/Atlas/Game/Prop/prop_candle_fire_c.png
+- Assets/Atlas/Game/Prop/prop_candle_stick.png
+- Assets/Atlas/Game/Prop/prop_candle_fire_a.png
+- Assets/Atlas/Game/Prop/prop_peach_d.png
+- Assets/Atlas/Game/Prop/prop_peach_b.png
+- Assets/Atlas/Game/Prop/prop_candle_colour_c.png
+- Assets/Atlas/Game/Prop/prop_drink_water.png
+- Assets/Atlas/Game/Prop/prop_peach_a.png
+- Assets/Atlas/Game/Prop/prop_candle_fire_b.png
+- Assets/Atlas/Game/Prop/prop_drink_b.png
+- Assets/Atlas/Game/Prop/prop_peach_c.png
+Dependencies: []
